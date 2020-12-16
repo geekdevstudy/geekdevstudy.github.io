@@ -5,8 +5,8 @@ title: Geek Dev Study
 email: xxx@example.com
 author: Tests
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl: ""
-url: "http://pixyll.com"
+baseurl: "/geekdevstudy.github.io"
+url: "http://geekdevstudy.github.io"
 
 # Build settings
 markdown: kramdown
