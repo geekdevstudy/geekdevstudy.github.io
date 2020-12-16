@@ -1,2 +1,14 @@
-#theme: jekyll-theme-cayman
-remote_theme: johno/pixyll
+remote_theme: geekdevstudy/pixyll
+
+# Site settings
+title: Geek Dev Study
+email: xxx@example.com
+author: Tests
+description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+baseurl: ""
+url: "http://pixyll.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
